@@ -1,5 +1,6 @@
 # Java
 - Repositorio para armazenar codigos de estudo.
+- Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB.
 
 # Employee
 <div align="center">
